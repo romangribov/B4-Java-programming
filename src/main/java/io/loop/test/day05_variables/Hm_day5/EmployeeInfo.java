@@ -54,6 +54,19 @@ public class EmployeeInfo {
         boolean areTheMarried = false;
         char suite = 'D';
 
+        System.out.println("Employment information " + "\t"+ firstName + lastName +"");
+        System.out.println("Gender: " + "\t"+gender+ "");
+        System.out.println("Special Agent at "+companyName+"");
+        System.out.println("Currently" + "\t"+ age + "years old");
+        System.out.println("PTO:" + "\t"+numberOfPto+"");
+        System.out.println("Full time?" + "\t"+areTheFullTime+"");
+        System.out.println("Job title" + "\t"+ jobTitle+"");
+        System.out.println("This years salary comes to" + "\t"+Salary+"$");
+        System.out.println("Married?" + "\t"+areTheMarried+ "");
+        System.out.println("MI6 is located in suite " + "\t"+suite+"");
+
+
+
 
 
     }
