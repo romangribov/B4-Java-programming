@@ -26,14 +26,49 @@ Task #7 - SmallTasks
 		write a program that will add 5 numbers from the console
  */
 
-public class SmallTasks {
-    public static void main(String[] args) {
-
-        for (char c = 'a'; c <= 'z'; c++) {
-            System.out.print(c + " ");
-        }
-        System.out.println();
-    }
-}
-
+//public class SmallTasks {
+//    public static void main(String[] args) {
 //
+//        for (char c = 'a'; c <= 'z'; c++) {
+//            System.out.print(c + " ");
+//        }
+//        System.out.println();
+//    }
+//}
+//
+//    //TODO: next task
+//
+//
+//    public static void main(String[] args) {
+//
+//        for (char letter = 'A'; letter <= 'Z'; letter++) {
+//            System.out.print(letter + " ");
+//        }
+//        System.out.println();
+//
+//
+//        for (int i = 0; i < 26; i++) {
+//
+//            char c = (char) ('a' + i);
+//            System.out.print(c + " ");
+//        }
+//
+//
+//
+//            for (int i = 25; i >= 0; i--) {
+//
+//                char c = (char) ('a' + i);
+//                System.out.print(c + " ");
+//            }
+//
+//
+//
+//
+//                for (char c = 'Z'; c >= 'A'; c--) {
+//                    System.out.print(c + " ");
+//                }
+//            }
+//        }
+//
+
+
